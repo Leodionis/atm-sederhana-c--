@@ -16,4 +16,4 @@ Proyek ini adalah sebuah simulasi ATM sederhana yang dikembangkan menggunakan ba
 - **Bahasa Pemrograman**: C++
 - **Compiler**: GCC, MSVC, atau compiler C++ lainnya yang mendukung standar C++11 atau lebih baru.
 
-<img src="img" alt="Alt Text" width="1500"/>
+<img src="img" alt="Alt Text" width="500"/>
